@@ -1,0 +1,27 @@
+*{
+    margin:0;
+}
+
+
+.diffrent{
+    background-color: rgba(127, 255, 212, 0.723);
+    height: 200px;
+    width: 100%;
+    margin-bottom: 400px;
+    position: fixed;
+    top:0;
+
+
+}
+
+#m-top{
+    margin-top: 237px;;
+}
+
+.box{
+
+    margin-bottom: 30px;
+    background-color: rgb(176, 127, 255);
+    height: 300px;
+ 
+}
