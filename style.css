@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+hr{margin:10px 0;}
+
+.box{margin:10px 0;}
+
+
+.parent{
+    border:1px solid rgb(72, 178, 219);
+    width:300px;
+}
+
+/* units */
+.pixel{
+    width: 120px;
+    background-color: #87ceeb;
+}
+
+.percent{
+    width: 50%;
+    background-color: #87eb9d;
+}
+
+.vw-unit{
+    width: 50vw;
+    background-color: #dd1f9b;
+}
+
+.vh-unit{
+    height: 25vh;
+    background-color: #c4dd1f;
+}
+
+
