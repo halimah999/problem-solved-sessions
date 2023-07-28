@@ -1,38 +1,26 @@
-*{
-    box-sizing: border-box;
-    margin:0;
-    padding: 0;
+html{
+    font-size: 20px;
 }
 
-hr{margin:10px 0;}
+h1{
 
-.box{margin:10px 0;}
-
-
-.parent{
-    border:1px solid rgb(72, 178, 219);
-    width:300px;
+    font-size:1.5em;
 }
 
-/* units */
-.pixel{
-    width: 120px;
-    background-color: #87ceeb;
+.containar{
+    border:1px solid gray;
+    font-size: 30px;
+    min-height: 200px;
 }
 
-.percent{
-    width: 50%;
-    background-color: #87eb9d;
+.containar h2{
+    font-size: 1.25em;
+    
 }
 
-.vw-unit{
-    width: 50vw;
-    background-color: #dd1f9b;
-}
 
-.vh-unit{
-    height: 25vh;
-    background-color: #c4dd1f;
+.containar p{
+    font-size: 0.75em;
 }
 
 
